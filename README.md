@@ -28,32 +28,32 @@ This bar chart shows the **Cost per Profile Visit** for each campaign, providing
 ### 2. **Gender Targeting vs. Efficiency**
 A scatter plot visualizing the relationship between the **Female** and **Male** audiences targeted, the **Profile Visits** generated, and the **Cost per Profile Visit**. Larger bubbles represent campaigns that generated more profile visits.
 
-![Gender Targeting vs. Efficiency](path_to_screenshot_2)
+![Gender Targeting vs. Efficiency](visualisations/screenshot2.png)
 
 ### 3. **Geographic Efficiency Comparison**
 This two-part bar plot compares the **Cost per Profile Visit** and **Profile Visits** for different **Locations**. This visualization helps to assess which locations were more cost-effective and drove higher engagement.
 
-![Geographic Efficiency Comparison](path_to_screenshot_3)
+![Geographic Efficiency Comparison](visualisations/screenshot3.png)
 
 ### 4. **Efficiency vs. Reach by Location**
 This scatter plot shows the relationship between **Accounts Reached** and **Cost per Profile Visit** for each campaign, with bubbles sized according to **Profile Visits** and colored by the amount **Spent**. It helps identify campaigns that reached more accounts with a lower cost per visit.
 
-![Efficiency vs. Reach by Location](path_to_screenshot_4)
+![Efficiency vs. Reach by Location](visualisations/screenshot4.png)
 
 ### 5. **Post Type Efficiency**
 This plot highlights how different **Post Types** (e.g., one product, multiple products, reel) perform in terms of **Cost per Profile Visit**. Each point on the scatter plot represents a campaign, with bubble sizes indicating **Profile Visits**.
 
-![Post Type Efficiency](path_to_screenshot_5)
+![Post Type Efficiency](visualisations/screenshot5.png)
 
 ### 6. **Ad Spend vs. Cost Efficiency**
 A scatter plot that shows the relationship between **Spent** (the amount spent on ads) and **Cost per Profile Visit**. The hue distinguishes different post types, providing insight into the relationship between ad spend and efficiency.
 
-![Ad Spend vs. Cost Efficiency](path_to_screenshot_6)
+![Ad Spend vs. Cost Efficiency](visualisations/screenshot6.png)
 
 ### 7. **Relationship between Profile Visits and Cost per Visit**
 This regression plot explores the correlation between **Profile Visits** and **Cost per Profile Visit**, revealing how increased engagement can impact cost efficiency.
 
-![Profile Visits vs. Efficiency](path_to_screenshot_7)
+![Profile Visits vs. Efficiency](visualisations/screenshot7.png)
 
 ## Requirements
 
