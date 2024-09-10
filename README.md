@@ -23,7 +23,7 @@ The code generates several visualizations that provide insights into the effecti
 ### 1. **Cost per Profile Visit by Campaign**
 This bar chart shows the **Cost per Profile Visit** for each campaign, providing an overview of how efficiently the marketing budget was spent across campaigns. Value labels on each bar indicate the exact cost for each campaign.
 
-![Cost per Profile Visit by Campaign](path_to_screenshot_1)
+![Cost per Profile Visit by Campaign](visualisations/screenshot1.png)
 
 ### 2. **Gender Targeting vs. Efficiency**
 A scatter plot visualizing the relationship between the **Female** and **Male** audiences targeted, the **Profile Visits** generated, and the **Cost per Profile Visit**. Larger bubbles represent campaigns that generated more profile visits.
